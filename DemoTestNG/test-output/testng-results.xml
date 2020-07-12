@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15989" started-at="2020-07-12T16:17:08 ICT" finished-at="2020-07-12T16:17:24 ICT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15989" started-at="2020-07-12T16:17:08 ICT" finished-at="2020-07-12T16:17:24 ICT">
+      <class name="poly.Lab08.SaveTestNGResultToExcel">
+        <test-method status="PASS" signature="suiteSetUp()[pri:0, instance:poly.Lab08.SaveTestNGResultToExcel@1d16f93d]" name="suiteSetUp" is-config="true" duration-ms="4307" started-at="2020-07-12T16:17:08 ICT" finished-at="2020-07-12T16:17:12 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteSetUp -->
+        <test-method status="PASS" signature="LaunchWebsite()[pri:1, instance:poly.Lab08.SaveTestNGResultToExcel@1d16f93d]" name="LaunchWebsite" duration-ms="4635" started-at="2020-07-12T16:17:12 ICT" description="open the testng demo website for login test" finished-at="2020-07-12T16:17:17 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchWebsite -->
+        <test-method status="PASS" signature="FillLoginDetails()[pri:2, instance:poly.Lab08.SaveTestNGResultToExcel@1d16f93d]" name="FillLoginDetails" duration-ms="1470" started-at="2020-07-12T16:17:17 ICT" description="FillLoginDetail" finished-at="2020-07-12T16:17:18 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FillLoginDetails -->
+        <test-method status="PASS" signature="DoLogin()[pri:3, instance:poly.Lab08.SaveTestNGResultToExcel@1d16f93d]" name="DoLogin" duration-ms="1082" started-at="2020-07-12T16:17:18 ICT" description="Perform Login" finished-at="2020-07-12T16:17:19 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DoLogin -->
+        <test-method status="PASS" signature="suiteTeardown()[pri:0, instance:poly.Lab08.SaveTestNGResultToExcel@1d16f93d]" name="suiteTeardown" is-config="true" duration-ms="4439" started-at="2020-07-12T16:17:19 ICT" finished-at="2020-07-12T16:17:24 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTeardown -->
+      </class> <!-- poly.Lab08.SaveTestNGResultToExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
